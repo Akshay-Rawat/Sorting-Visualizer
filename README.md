@@ -7,15 +7,11 @@
 <h3 align="center">Sorting.Visualizer</h3>
 <div align="center">
 
-[![GitHub contributors](https://img.shields.io/github/contributors/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/issues)
-[![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/network)
-[![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/stargazers)
-[![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/blob/master/LICENSE)
+
 
 </div>
 
-## 📊 Sorting.Visulizer 🕹[Try It Now](https://hamdolavisualizer.netlify.com/?fbclid=IwAR0YJMegmtW4CKDtiUM256qrCGwxbQqUDq0OJK6qjAqGiYdaS-oPdq3pFX8)
+## 📊 Sorting.Visulizer 🕹[Try It Now]
 --------------------
 
 **_Sorting.Visualizer is a web app for visualizing a bunch of different sorting algorithms Like_**
