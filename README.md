@@ -33,12 +33,3 @@ _With the functionality of_ ⏳(**_Processing Speed Control_**)  _and_   📏(**
 
 **_The algorithms moves the items around by swapping elements, Without using any addational memory with creating another array.**
 
-## 📷 ScreenShots 
-------------------
-![image](https://user-images.githubusercontent.com/40190772/70376007-3c96b380-190d-11ea-90f1-56f29eedb5f4.png)
-![image](https://user-images.githubusercontent.com/40190772/70376030-74056000-190d-11ea-9a93-496c01cbd641.png)
-![image](https://user-images.githubusercontent.com/40190772/70376037-82537c00-190d-11ea-8407-d9dd4b6cce94.png)
-
-## 📽 GIF Demo
---------------
-![Visualizer Demo](https://user-images.githubusercontent.com/40190772/70376256-a4e69480-190f-11ea-9a70-2c15d6c1a81a.gif)
